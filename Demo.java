@@ -4,7 +4,7 @@ public class Demo {
 	
 	public void greet()
 	{
-		System.out.println("Hello Evryone");
+		System.out.println("Hello Evryone feature1");
 	}
 	public void show()
 	{
